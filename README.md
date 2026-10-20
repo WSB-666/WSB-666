@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=2BBC8A&center=true&vCenter=true&width=620&lines=Robotics+Engineer;ROS+2+%7C+Autonomous+Navigation;URDF+%7C+Gazebo+%7C+Nav2" alt="Typing SVG" />
 
-# Hi, I'm 武思博 👋
+# Hi, I'm WSB-666 👋
 
 **机器人工程师 · ROS 2 · 自主导航**
 
