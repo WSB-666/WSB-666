@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2BBC8A,100:38BDF8&height=120&section=header&animation=fadeIn" width="100%" alt="header" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=2BBC8A&center=true&vCenter=true&width=620&lines=Robotics+Engineer;ROS+2+%7C+Autonomous+Navigation;URDF+%7C+Gazebo+%7C+Nav2" alt="Typing SVG" />
@@ -8,6 +10,8 @@
 
 [![Blog](https://img.shields.io/badge/Blog-翠速小筑-2BBC8A?style=for-the-badge&logo=astro&logoColor=white)](https://wsb-666.github.io/my-blog/)
 [![GitHub](https://img.shields.io/badge/GitHub-WSB--666-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WSB-666)
+
+<img src="https://komarev.com/ghpvc/?username=WSB-666&label=PROFILE+VIEWS&style=for-the-badge&color=2BBC8A" alt="Profile views" />
 
 </div>
 
@@ -62,14 +66,26 @@
 - 激光雷达 / IMU / 相机 多传感器接入
 - Nav2 建图、定位与单点 / 路点导航
 
+### 🎯 color_detector · HSV 颜色分拣视觉节点
+
+- OpenCV HSV 阈值分割 + 形态学去噪 + 面积过滤
+- Trackbar 在线调参，阈值可存 json 一键加载
+- 输出目标类别与像素坐标，并以 JSON 发布到 ROS 2 话题 `/color_targets`
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WSB-666&show_icons=true&theme=vue-dark&hide_border=true&locale=cn" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=WSB-666&show_icons=true&theme=vue-dark&hide_border=true&locale=cn&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSB-666&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=WSB-666&theme=vue-dark&hide_border=true&locale=zh-Hans" alt="Streak Stats" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=WSB-666&theme=vue&hide_border=true&area=true&custom_title=%E8%BF%91%E6%9C%9F%E6%B4%BB%E8%B7%83%E6%9B%B2%E7%BA%BF" alt="Activity Graph" />
 
 </div>
 
@@ -83,3 +99,5 @@
 <div align="center">
   <sub>「把踩过的坑，变成别人少走的弯路。」</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:2BBC8A&height=110&section=footer" width="100%" alt="footer" />
