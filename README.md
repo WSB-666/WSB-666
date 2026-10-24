@@ -85,7 +85,7 @@
 
 <img width="100%" src="https://streak-stats.demolab.com?user=WSB-666&theme=vue-dark&hide_border=true&locale=zh-Hans" alt="Streak Stats" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=WSB-666&theme=vue&hide_border=true&area=true&custom_title=%E8%BF%91%E6%9C%9F%E6%B4%BB%E8%B7%83%E6%9B%B2%E7%BA%BF" alt="Activity Graph" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=WSB-666&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
